@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 
 /** ai-scoreboard's panel: how the key opens the board, what players may see about each other and which job counts show. */
 export const schema: PanelSchema = {

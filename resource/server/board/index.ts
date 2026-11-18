@@ -2,7 +2,7 @@ import {
   onCharacter,
   onClientCallback,
   online,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import { EVENTS, type Counts } from "common/board";
 import { panel, settings } from "./content";
 import { Roster } from "./roster";
